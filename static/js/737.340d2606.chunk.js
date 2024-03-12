@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmall=self.webpackChunkmall||[]).push([[737],{737:(e,l,s)=>{s.r(l),s.d(l,{default:()=>t});var a=s(579);const t=()=>(0,a.jsx)("div",{className:"p-4 w-full bg-white",children:(0,a.jsx)("div",{className:"text-3xl font-extrabold",children:"Todo List Page Component"})})}}]);
+//# sourceMappingURL=737.340d2606.chunk.js.map
